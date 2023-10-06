@@ -1,0 +1,37 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'AdventureAwaits'
+theme = "hugo-tranquilpeak-theme" 
+
+[menu]
+[[menu.main]]
+    name = 'Inicio'
+    pre = '<i class="fa fa-heart"></i>'
+    url = 'http://localhost:1313/post/primer-post/'
+    weight = 10
+    [menu.main.params]
+      rel = 'external'
+
+[[menu.main]]
+    name = 'Destinos'
+    pre = '<i class="fa fa-heart"></i>'
+    url = ''
+    weight = 20
+    [menu.main.params]
+      rel = 'external'
+
+[[menu.main]]
+    name = 'Paquetes'
+    pre = '<i class="fa fa-heart"></i>'
+    url = ''
+    weight = 30
+    [menu.main.params]
+      rel = 'external'
+
+[[menu.main]]
+    name = 'Contacto'
+    pre = '<i class="fa fa-heart"></i>'
+    url = ''
+    weight = 30
+    [menu.main.params]
+      rel = 'external'
