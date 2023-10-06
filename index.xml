@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baloncesto en silla de ruedas</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Baloncesto en silla de ruedas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://example.org/post/primer-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/primer-post/</guid>
+      <description>Introduccion El baloncesto en silla de ruedas es la modalidad de este deporte practicada con silla de ruedas, básicamente para personas con discapacidad física. Se han adaptado las reglas del baloncesto en las particularidades de las sillas de ruedas, armonizando también los diversos niveles de discapacidad de los deportistas. Es un deporte que cuenta con un intenso calendario tanto a nivel nacional como internacional, incluyendo su presencia en los Juegos Paralímpicos como uno de los deportes más destacados.</description>
+    </item>
+    
+  </channel>
+</rss>
